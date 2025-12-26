@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Exporter",
+  "description": "A specialized Gemini-powered tool to generate the TelegramChatExporter Python script using the Telethon library.",
+  "requestFramePermissions": []
+}
