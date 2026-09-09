@@ -1,6 +1,6 @@
 # Telegram Exporter Script Generator
 
-A React application that generates custom `TelegramChatExporter` Python scripts. It uses Gemini 2.5 Flash to output async Python scripts based on the Telethon library, matching your requested export parameters.
+**Telegram chat exporter Python script generator** built as a React application. It uses Gemini 2.5 Flash to output async Python scripts based on the Telethon library, matching your requested export parameters.
 
 ## Features
 - **Gemini Engine**: Calls the Gemini 2.5 Flash model to write the Python output.
