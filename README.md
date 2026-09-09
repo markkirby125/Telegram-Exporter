@@ -1,9 +1,9 @@
 # Telegram Exporter Script Generator
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![React](https://img.shields.io/badge/React-20232A?style=flat# Telegram Exporter Script Generatorlogo=react# Telegram Exporter Script GeneratorlogoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# Telegram Exporter Script Generatorlogo=typescript# Telegram Exporter Script GeneratorlogoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat# Telegram Exporter Script Generatorlogo=vite# Telegram Exporter Script GeneratorlogoColor=FFD62E)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>](https://img.shields.io/badge/React-20232A?style=flat# Telegram Exporter Script Generatorlogo=react# Telegram Exporter Script GeneratorlogoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# Telegram Exporter Script Generatorlogo=typescript# Telegram Exporter Script GeneratorlogoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat# Telegram Exporter Script Generatorlogo=vite# Telegram Exporter Script GeneratorlogoColor=FFD62E)
 
 
-**Telegram chat exporter Python script generator** built as a React application. It uses Gemini 2.5 Flash to output async Python scripts based on the Telethon library, matching your requested export parameters.
+**Telegram chat exporter Python script generator** built as a React application. It uses <a href="https://ai.google.dev/" target="_blank" rel="noopener noreferrer">Gemini 2.5 Flash</a> to output async Python scripts based on the <a href="https://docs.telethon.dev/" target="_blank" rel="noopener noreferrer">Telethon library</a>, matching your requested export parameters.
 
 ## Features
 - **Gemini Engine**: Calls the Gemini 2.5 Flash model to write the Python output.
