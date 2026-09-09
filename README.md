@@ -6,7 +6,7 @@ A React application that generates custom `TelegramChatExporter` Python scripts.
 - **Gemini Engine**: Calls the Gemini 2.5 Flash model to write the Python output.
 - **Telethon Mapping**: The system prompt enforces Telethon v1.42+ syntax and blocks deprecated methods.
 - **Dynamic Prompts**: Enter your export target (e.g., "Export all media from channel X to HTML") to receive the corresponding script.
-- **Client-Side execution**: Reads your API key from a local `.env` file. No backend server is required.
+- **Client-Side Execution**: Reads your API key from a local `.env` file. No backend server is required.
 
 ## Tech Stack
 - React 19
