@@ -1,12 +1,12 @@
 # Telegram Exporter Script Generator
 
-A specialized, AI-powered React application that generates a custom `TelegramChatExporter` Python script. Powered by Gemini 2.5 Flash, it produces robust, async Python scripts using the Telethon library tailored to your specific export requirements.
+A React application that generates custom `TelegramChatExporter` Python scripts. It uses Gemini 2.5 Flash to output async Python scripts based on the Telethon library, matching your requested export parameters.
 
 ## Features
-- **Gemini AI Engine**: Utilizes Google's Gemini 2.5 Flash model for fast, high-quality code generation.
-- **Telethon Expertise**: The AI is system-prompted with deep knowledge of the Telethon v1.42+ API, ensuring accurate session management and Telegram TOS compliance.
-- **Dynamic Prompts**: Describe your exact export requirements (e.g., "Export all media from channel X to HTML") and get a ready-to-run Python script.
-- **Client-Side execution**: API keys are securely loaded via local `.env` and never touch a backend.
+- **Gemini Engine**: Calls the Gemini 2.5 Flash model to write the Python output.
+- **Telethon Mapping**: The system prompt enforces Telethon v1.42+ syntax and blocks deprecated methods.
+- **Dynamic Prompts**: Enter your export target (e.g., "Export all media from channel X to HTML") to receive the corresponding script.
+- **Client-Side execution**: Reads your API key from a local `.env` file. No backend server is required.
 
 ## Tech Stack
 - React 19
